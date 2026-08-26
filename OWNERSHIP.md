@@ -22,8 +22,8 @@ I, **Yvonne1ru**, am the sole creator, publisher, and owner of the following ide
 
 | Version | Market |
 |---|---|
-| v0.1.0 → v0.2.2 | Open VSX / Trae (`markcomment`) |
-| v0.1.0 → v0.3.0 | VS Code Marketplace (`11ru`) |
+| v0.1.0 → v0.3.0 | Open VSX / Trae (`markcomment`) |
+| v0.1.0 → v0.2.2 | VS Code Marketplace (`11ru`) |
 
 ## Why this file proves ownership
 
